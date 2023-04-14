@@ -1,1 +1,1 @@
-"# INFO2-UEB-AdapterPattern" 
+# INFO2-UEB-AdapterPattern
